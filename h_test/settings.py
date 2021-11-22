@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-cq-yystggdpl@i#=u@bo4x#7#gi_lkue6bka_7vgs^irb@v&)b
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['fluenco.herokuapp.com']
 
 
 # Application definition
